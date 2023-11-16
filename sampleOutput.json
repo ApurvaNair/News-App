@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "",
+        "title": "Video: Hear the audio of the altercation between McCarthy and Burchett | CNN Politics",
+        "description": "Republican Rep. Tim Burchett accused Kevin McCarthy of elbowing him in the back while he was talking to a reporter after the House GOP conference meeting. Audio caught the moments after when Burchett confronted McCarthy.",
+        "url": "https://www.cnn.com/videos/politics/2023/11/15/burchett-mccarthy-scuffle-audio-src-vpx.cnn",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231114125218-burchett-mccarthy-split.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2023-11-15T03:52:42Z",
+        "content": ""
+      },
+      {
+        "source": {
+          "id": "the-american-conservative",
+          "name": "The American Conservative"
+        },
+        "author": "Jude Russo",
+        "title": "Politics Archives - The American Conservative",
+        "description": "Good economic numbers and horrible public confidence provide the starkest illustration yet of our national syndrome.",
+        "url": "https://www.theamericanconservative.com/category/politics/",
+        "urlToImage": "https://tac.imgix.net/wp-content/uploads/2023/11/shutterstock_2330820239-scaled-e1700092190145.jpg?ar=1.5%3A1&auto=format&crop=faces%2Centropy&fit=crop&ixlib=php-3.3.1&w=856",
+        "publishedAt": "2022-07-07T21:37:27.3936289Z",
+        "content": ""
+      },
+      {
+        "source": {
+          "id": "the-jerusalem-post",
+          "name": "The Jerusalem Post"
+        },
+        "author": "OMRI NAHMIAS",
+        "title": "Congresswoman Nita Lowey: I am proud to stand with Israel",
+        "description": "Gantz: Security of Israel is above politics; PA: This is a crime.",
+        "url": "https://www.jpost.com/Arab-Israeli-Conflict/Gantz-Security-of-Israel-is-above-politics-Palestinians-This-is-a-crime-607595",
+        "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/448812",
+        "publishedAt": "2019-11-13T04:41:00Z",
+        "content": "US Ambassador David M. Friedman said the US stands “with our friend and ally Israel at this critical moment” on social media on Tuesday after roughly 170 rockets were fired on Israel from the Gaza St… [+6160 chars]"
+      }
+    ]
+  }
